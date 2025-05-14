@@ -92,7 +92,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         resume: () => {
             const link = document.createElement("a");
-            link.href = "https://github.com/Shivam7400/Portfolio/blob/master/resume.pdf";
+            link.href = "resume.pdf";
             link.download = "Shivam_Resume.pdf";
             document.body.appendChild(link);
             link.click();
