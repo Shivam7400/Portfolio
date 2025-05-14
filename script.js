@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", function () {
             return `<pre>
         <span class="blue">      /\\      </span>  User: Shivam_Maheshwari
         <span class="blue">     /  \\     </span>  OS: Ubuntu
-        <span class="blue">    /    \\    </span>  Hostname: 
+        <span class="blue">    /    \\    </span>  Hostname: https://shivam7400.github.io/Portfolio/
         <span class="blue">   /  /\\  \\   </span>  Time: ${currentTime}
         <span class="blue">  /  (--)  \\  </span>  Email: <a href="mailto:shivammaheshwari317@gmail.com" class="custom-link">shivammaheshwari317@gmail.com</a>
         <span class="blue"> /  /    \\  \\ </span>  GitHub: <a href="https://github.com/Shivam7400" target="_blank" class="custom-link">github.com/Shivam7400</a>
